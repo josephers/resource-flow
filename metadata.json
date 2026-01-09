@@ -1,0 +1,5 @@
+{
+  "name": "ResourceFlow AI",
+  "description": "A smart project resource management and forecasting tool. Manage roles, allocate team members, and calculate costs based on business hours and rate cards, powered by Gemini for resource analysis.",
+  "requestFramePermissions": []
+}
